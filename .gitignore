@@ -1,6 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 
-*.h5
+disease_detector.h5
 *.pkl
 *.csv
