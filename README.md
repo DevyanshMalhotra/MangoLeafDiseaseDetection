@@ -50,19 +50,22 @@ Data augmentation techniques such as rotation, width shift, height shift, and ho
 
 The model achieved the following results on the test set:
 
-- **Accuracy:** [94.75%]
-- **Precision:** [96.03%]
-- **F1 Score:** [94.63%]
+- **Accuracy:** 94.75%
+- **Precision:** 96.03%
+- **F1 Score:** 94.63%
 
 The confusion matrix and classification report provide detailed insights into the model's performance across different classes.
 
 ### Sample Output Images
 
 Below are some sample output images showing the true and predicted labels:
+![Output 1](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output1.png)
+![Output 2](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output2.png)
+![Output 3](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output3.png)
+![Output 4](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output4.png)
+![Output 5](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output5.png)
+![Output 6](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output6.png)
 
-### Receiver Operating Characteristic (ROC) Curve
-
-### Confusion Matrix
 
 ## Conclusion
 
