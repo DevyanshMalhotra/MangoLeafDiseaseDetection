@@ -59,7 +59,7 @@ The confusion matrix and classification report provide detailed insights into th
 ### Sample Output Images
 
 Below are some sample output images showing the true and predicted labels:
-![Output 1](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output1.png)
+![Output 1](./output1.png)
 ![Output 2](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output2.png)
 ![Output 3](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output3.png)
 ![Output 4](https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System/blob/main/output4.png)
